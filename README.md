@@ -14,7 +14,7 @@
 ---
 ## 4.How can you contribute
  * you can design your own level and send pull request
- * you can convert the whole thing into a exe file.it will help others to run that game
+ * you can convert the whole thing into a exe file.it will help others to run this game
 ---
 ---
 ## 5.Ingame view
